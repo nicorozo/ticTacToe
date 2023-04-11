@@ -1,0 +1,7 @@
+add 'id' to slots in boardCreation
+add 'onclick' function to all the slots 
+create 'mark' class activated onclick
+set up mark class on css 
+
+
+if slot === '' 
